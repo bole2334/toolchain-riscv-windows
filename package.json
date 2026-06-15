@@ -1,6 +1,6 @@
 {
   "name": "toolchain-riscv",
-  "version": "1.80200.190731",
+  "version": "1.120200.220829",
   "description": "GNU toolchain for RISC-V, including GCC",
   "keywords": [
     "build tools",
