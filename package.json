@@ -1,0 +1,23 @@
+{
+  "name": "toolchain-riscv-wch",
+  "version": "1.150200.240808",
+  "description": "GNU toolchain for RISC-V WCH, including GCC 15.2.0",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor",
+    "risc-v",
+    "wch"
+  ],
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "windows_x86",
+    "windows_amd64"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xpack-dev-tools/riscv-none-elf-gcc-xpack"
+  }
+}
